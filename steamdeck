@@ -1,16 +1,17 @@
 <html>
 <p><a href="index.html">Home</a> | <a href="3ds.html">3DS</a> | <a href="playstation3.html">Playstation 3</a> | <a href="switch.html">Switch</a> | Steam Deck</p>
 <hr>
+  
 <head>
-<title>Steam Deck</title>
+<title>My 3DS!</title>
 </head>
 
 <body>
-<p><h1>Steam Deck</h1></p>
+<p><h1>3DS</h1></p>
 
+<img src="3ds front.jpg" width=400>
 
-<img src="steam deck front.jpg" width=400>
-<p>Play your favorite steam games anywhere you want.</p>
+<p>3DS is a portable gaming system that you can take anywhere with you. Just be careful with your battery.</p>
 
 </body>
 
